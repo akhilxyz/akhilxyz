@@ -1,5 +1,4 @@
 <div align="center">
-<!--    https://drive.google.com/file/d/10GZ8PXcF72Srzk6spv8B4kulW0j_eqc-/view?usp=sharing -->
 <img width="100%" height = "100%" src="https://drive.google.com/uc?id=10GZ8PXcF72Srzk6spv8B4kulW0j_eqc-" alt="cover" />
 </div>
 
