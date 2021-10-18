@@ -72,7 +72,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://akhilchoudhary.in"><img src="https://https://img.shields.io/badge/-akhilchoudhary.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://akhilchoudhary.in"><img src="https://img.shields.io/badge/-akhilchoudhary.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/akhilxyz"><img src="https://img.shields.io/badge/-akhilxyz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/akhilchoudharry"><img src="https://img.shields.io/badge/-@akhilchoudharry__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/itsyourboyakhil"><img src="https://img.shields.io/badge/-@itsyourboyakhil-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
