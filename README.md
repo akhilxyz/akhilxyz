@@ -1,4 +1,4 @@
-<img width="25%" align="left" src="https://drive.google.com/uc?id=10GZ8PXcF72Srzk6spv8B4kulW0j_eqc-" alt="cover" />
+<img width="25%" align="left" src="https://akhilchoudhary.netlify.app/images/section/38.png" alt="cover" />
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
