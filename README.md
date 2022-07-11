@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, MERN, Blockchain Open Source 
+💬 Talk to me about Python, JavaScript, Freelancing Opportunites, MERN, Blockchain Open Source 
 
 <h2 className="text-center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/akhilxyz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
