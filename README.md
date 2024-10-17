@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on full-stack MERN projects and exploring Web3 integrations.<br>
 
-<img width="25%" height='25%' align="right" alt="Github" src="https://media.licdn.com/dms/image/v2/D5603AQE57-MgRpDiiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711946824514?e=1733961600&v=beta&t=g7k-hZap8dTJWxkEp1Fnte2GRrA4Vc_VYFr85WDCSnk" />
+<img width="25%" height='25%' align="right" alt="Github" src="https://media.licdn.com/dms/image/v2/D5603AQGpoYk59lbY_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728657859868?e=1734566400&v=beta&t=dunvuZ0dZqU9r-jrg8WBrFzXG2rNctYbsX6gbjnmxRc" />
 <br>👯 I’m looking to collaborate on web apps and blockchain-related projects.<br>
 
 <br>🤝 I’m looking for help with advanced cloud architecture and scalable APIs.<br><br>🌱 I’m currently learning serverless architecture and microservices.<br><br>💬 Ask me about React, Node.js, or blockchain development.<br><br>⚡ Fun fact: I love experimenting with smart contracts and decentralized solutions!
